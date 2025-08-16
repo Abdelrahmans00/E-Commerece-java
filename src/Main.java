@@ -17,6 +17,7 @@ public class Main {
         addToCart(cart, cheese, 2);
         addToCart(cart, biscuits, 1);
         addToCart(cart, scratchCard, 1);
+        System.out.printl("sba7o")
 
         // Checkout
         checkout(customer, cart, new ShippingService());
